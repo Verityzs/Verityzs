@@ -24,12 +24,7 @@ hey, i'm **verity** – a developer from germany. right now i'm working on **mer
 
 ## activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Verityzs&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=a78bfa&icon_color=f472b6&text_color=c4c4d8&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verityzs&layout=compact&hide_border=true&bg_color=0b0b14&title_color=a78bfa&text_color=c4c4d8" alt="Top languages" height="165">
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Verityzs&bg_color=0b0b14&color=c4c4d8&line=a78bfa&point=f472b6&area=true&area_color=a78bfa&hide_border=true" alt="Activity graph of the last 30 days" width="100%">
+<img src="https://streak-stats.demolab.com?user=Verityzs&background=0b0b14&border=2a2540&ring=a78bfa&fire=f472b6&currStreakNum=f5f5fa&sideNums=f5f5fa&currStreakLabel=a78bfa&sideLabels=c4c4d8&dates=8b8ba7&stroke=2a2540&border_radius=16" alt="Contributions and streak" width="100%">
 
 ---
 
