@@ -1,25 +1,24 @@
 <a href="https://github.com/Verityzs">
-  <img src="https://github.com/Verityzs/Verityzs/raw/main/assets/banner.svg" alt="hi, i'm verity. building mercy" width="100%">
+  <img src="https://github.com/Verityzs/Verityzs/raw/main/assets/banner.svg" alt="hi, i'm verity. building sonify" width="100%">
 </a>
 
 <p align="center">
   <a href="https://github.com/Verityzs"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/links/github.svg?v=1" alt="GitHub" height="44"></a>
-  <a href="https://github.com/Verityzs/Mercy.Website"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/links/mercy.svg?v=1" alt="Mercy" height="44"></a>
+  <a href="https://github.com/Verityzs/SONIFY"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/links/sonify.svg?v=1" alt="Sonify" height="44"></a>
 </p>
 
-hey, i'm **verity** – a developer from germany. right now i'm working on **mercy**: a client written in go and the website that goes with it. i like building things from scratch and keeping them fast and simple.
+hey, i'm **verity** – a developer from germany. right now i'm working on **sonify** – more about it soon. i like building things from scratch and keeping them fast and simple.
 
 ## currently building
 
-<p>
-  <a href="https://github.com/Verityzs/Mercy.Client"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/cards/mercy-client.svg?v=1" alt="Mercy.Client – the mercy client, written in go (in progress)" width="49%"></a>
-  <a href="https://github.com/Verityzs/Mercy.Website"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/cards/mercy-website.svg?v=1" alt="Mercy.Website – the official website for mercy (in progress)" width="49%"></a>
-</p>
+<a href="https://github.com/Verityzs/SONIFY"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/cards/sonify.svg?v=1" alt="SONIFY – my newest project, currently in the works" width="49%"></a>
 
 ## stack
 
+<sub>everything i build with – together with claude code.</sub>
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,html,css,js,git,github,linux,vscode,discord&perline=9" alt="Go, HTML, CSS, JavaScript, Git, GitHub, Linux, VS Code, Discord">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,java,kotlin,rust,c,cpp,cs,php,ruby,swift,dart,lua,bash,powershell,haskell,scala,elixir,r,html,css,react,nextjs,vue,svelte,angular,tailwind,threejs,vite,webpack,nodejs,bun,deno,express,django,flask,fastapi,spring,laravel,rails,graphql,flutter,electron,unity,godot,tensorflow,pytorch,postgres,mysql,mongodb,redis,sqlite,prisma,supabase,firebase,docker,kubernetes,nginx,linux,aws,gcp,azure,cloudflare,vercel,git,github,githubactions,jest,vscode,figma,discord,md&perline=12" alt="Languages, frameworks, databases, cloud and tools">
 </a>
 
 ## activity
