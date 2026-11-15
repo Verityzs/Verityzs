@@ -15,8 +15,6 @@ hey, i'm **verity** – a developer from germany. right now i'm working on **son
 
 ## stack
 
-<sub>everything i build with – together with claude code.</sub>
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,java,kotlin,rust,c,cpp,cs,php,ruby,swift,dart,lua,bash,powershell,haskell,scala,elixir,r,html,css,react,nextjs,vue,svelte,angular,tailwind,threejs,vite,webpack,nodejs,bun,deno,express,django,flask,fastapi,spring,laravel,rails,graphql,flutter,electron,unity,godot,tensorflow,pytorch,postgres,mysql,mongodb,redis,sqlite,prisma,supabase,firebase,docker,kubernetes,nginx,linux,aws,gcp,azure,cloudflare,vercel,git,github,githubactions,jest,vscode,figma,discord,md&perline=12" alt="Languages, frameworks, databases, cloud and tools">
 </a>
