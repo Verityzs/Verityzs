@@ -1,17 +1,17 @@
 <a href="https://github.com/Verityzs">
-  <img src="https://github.com/Verityzs/Verityzs/raw/main/assets/banner.svg" alt="hi, i'm verity. building sonify" width="100%">
+  <img src="https://github.com/Verityzs/Verityzs/raw/main/assets/banner.svg" alt="hi, i'm verity. building root" width="100%">
 </a>
 
 <p align="center">
   <a href="https://github.com/Verityzs"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/links/github.svg?v=1" alt="GitHub" height="44"></a>
-  <a href="https://github.com/Verityzs/SONIFY"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/links/sonify.svg?v=1" alt="Sonify" height="44"></a>
+  <a href="https://github.com/Verityzs"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/links/root.svg?v=1" alt="Root" height="44"></a>
 </p>
 
-hey, i'm **verity** – a developer from germany. right now i'm working on **sonify** – more about it soon. i like building things from scratch and keeping them fast and simple.
+hey, i'm **verity** – a developer from germany. right now i'm building **root** – my own ai, still under construction. i like building things from scratch and keeping them fast and simple.
 
 ## currently building
 
-<a href="https://github.com/Verityzs/SONIFY"><img src="https://github.com/Verityzs/Verityzs/raw/main/assets/cards/sonify.svg?v=1" alt="SONIFY – my newest project, currently in the works" width="49%"></a>
+<img src="https://github.com/Verityzs/Verityzs/raw/main/assets/cards/root.svg?v=1" alt="ROOT – my own ai, currently under construction" width="49%">
 
 ## stack
 
